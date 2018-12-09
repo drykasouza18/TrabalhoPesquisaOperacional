@@ -1,8 +1,3 @@
-# Objeto	(j)		1	2	3	4	5
-# Peso		(wj)		4	5	7	9	6
-# Benefício	(pj)		2	2	3	4	4
-
-
 # função para obter o peso de determinada solução
 # essa função calcula o somatório do peso
 # passa uma solução e a mochila
